@@ -30,13 +30,13 @@ Clone the repo and open `index.html` in your browser:
 ### Linux/macOS
 
 ```bash
-sudo git clone https://github.com/YourUsername/your-new-repo.git.git
+sudo git clone https://github.com/AKV1108/Drone-Landing-Page.git
 ```
 
 ### Windows
 
 ```bash
-git clone https://github.com/YourUsername/your-new-repo.git.git
+git clone https://github.com/AKV1108/Drone-Landing-Page.git
 ```
 
 ---
@@ -68,3 +68,4 @@ If you want to connect, feel free to reach me via [LinkedIn](https://www.linkedi
 ---
 
 > Explore the Skies — brought to you by **Drone-Web-Frontend**.
+
